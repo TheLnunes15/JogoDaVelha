@@ -1,0 +1,7 @@
+******************** ÚLTIMA RODADA DE PARTIDAS DO JOGO DA VELHA ********************
+JOGADOR 1 - Nome: null - Número de Vitórias: 1
+JOGADOR 2 - Nome: null - Número de Vitórias: 1
+Número de Empates: 1
+Número de Partidas: 3
+Maior Vencedor: Jogadores empatados!
+Horário inicial do acesso ao Jogo: 0:12:38
